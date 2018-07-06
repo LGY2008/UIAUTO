@@ -14,6 +14,7 @@
 
 	4.   提交            git commit -m "test"
 
-	5.   git push origin master
+	5.   git push origin master  提交
+	6.   git pull origin master  拉取
 
       
